@@ -1,0 +1,9 @@
+C:\GitProjects\RssFeeder\RssFeeder\obj\Debug\RssFeeder.fsprojResolveAssemblyReference.cache
+C:\GitProjects\RssFeeder\RssFeeder\bin\Debug\RssFeeder.exe.config
+C:\GitProjects\RssFeeder\RssFeeder\bin\Debug\RssFeeder.XML
+C:\GitProjects\RssFeeder\RssFeeder\bin\Debug\RssFeeder.exe
+C:\GitProjects\RssFeeder\RssFeeder\bin\Debug\RssFeeder.pdb
+C:\GitProjects\RssFeeder\RssFeeder\bin\Debug\FSharp.Core.dll
+C:\GitProjects\RssFeeder\RssFeeder\bin\Debug\FSharp.Core.xml
+C:\GitProjects\RssFeeder\RssFeeder\obj\Debug\RssFeeder.exe
+C:\GitProjects\RssFeeder\RssFeeder\obj\Debug\RssFeeder.pdb
