@@ -49,6 +49,13 @@
     <None Include="Script.fsx" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RssFeeder\RssFeeder.fsproj">
+      <Name>RssFeeder</Name>
+      <Project>{1bd0db23-352d-487a-ad48-df88ac233e93}</Project>
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
   </PropertyGroup>

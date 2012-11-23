@@ -18,3 +18,11 @@ let props = xd.Element(xn "parent").Elements(xn "property")
 //    .Single()
 //    property
 //
+
+open System.Xml.Linq
+open System.Xml.XPath
+
+//let doc = XDocument.Parse("<r><a n=\"f\">foo</a><a n=\"b\">bar</a></r>")
+let xd = XDocument.Load(xmlLocation)
+let doc = XDocument.Parse(xd)
+doc.XPathSelectElement("//a[@*='f']").Value

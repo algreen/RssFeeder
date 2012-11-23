@@ -1,6 +1,8 @@
 ﻿#I @"C:\Program Files (x86)\FSharpPowerPack-2.0.0.0\bin\FSharp.PowerPack.dll"
 #r "FSharp.Powerpack.dll"
 
+#I @"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.XML.dll"
+
 open System
 open System.Xml
 open Microsoft.FSharp.Collections
