@@ -1,0 +1,10 @@
+D:\GitHub\RssFeeder\UnitTest\bin\Debug\UnitTest.XML
+D:\GitHub\RssFeeder\UnitTest\bin\Debug\UnitTest.dll
+D:\GitHub\RssFeeder\UnitTest\bin\Debug\UnitTest.pdb
+D:\GitHub\RssFeeder\UnitTest\bin\Debug\FSharp.Core.dll
+D:\GitHub\RssFeeder\UnitTest\bin\Debug\nunit.framework.dll
+D:\GitHub\RssFeeder\UnitTest\bin\Debug\FSharp.Core.xml
+D:\GitHub\RssFeeder\UnitTest\bin\Debug\nunit.framework.xml
+D:\GitHub\RssFeeder\UnitTest\obj\Debug\UnitTest.fsprojResolveAssemblyReference.cache
+D:\GitHub\RssFeeder\UnitTest\obj\Debug\UnitTest.dll
+D:\GitHub\RssFeeder\UnitTest\obj\Debug\UnitTest.pdb

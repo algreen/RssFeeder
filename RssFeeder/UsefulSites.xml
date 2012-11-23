@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sections>
+  <sites>
+    <item>
+      <Description>Scott's Site</Description>
+      <Category>F#;Interesting;The Guru</Category>
+      <Url>http://fsharpforfunandprofit.com/</Url>
+    </item>
+    <item>
+      <Description>Don Syme's Blog</Description>
+      <Category>F#;Interesting</Category>
+      <Url>http://blogs.msdn.com/b/dsyme</Url>
+    </item>
+    <item>
+      <Description>F# News</Description>
+      <Category>F#;Putting the fun in functional programming since 2005</Category>
+      <Url>http://fsharpnews.blogspot.co.uk/</Url>
+    </item>
+    <item>
+      <Description>The F# Software Foundation</Description>
+      <Category>F#</Category>
+      <Url>http://fsharp.org/</Url>      
+    </item>
+    <item>
+      <Description>F# Site</Description>
+      <Category>F#;Interesting</Category>
+      <Url>http://msdn.microsoft.com/en-us/library/hh361039.aspx</Url>
+    </item>
+    <item>
+      <Description>F# Site</Description>
+      <Category>F#;Interesting</Category>
+      <Url>http://geekswithblogs.net/MarkPearl/archive/2010/07/06/f-ndash-depressingly-simple-text-file-access.aspx</Url>
+    </item>
+    <item>
+      <Description>F# Site</Description>
+      <Category>F#;Interesting</Category>
+      <Url>http://randomactsofcoding.blogspot.co.uk/2009/03/how-i-learning-f-interacting-with-net.html</Url>
+    </item>
+    <item>
+      <Description>F# and C# Win App - worth a look ?</Description>
+      <Category>F#;Windows Application</Category>
+      <Url>http://visualstudiogallery.msdn.microsoft.com/37e2558c-b6df-401a-9a2e-b14c714c4d22</Url>
+    </item>
+    <item>
+      <Description>UX stuff</Description>
+      <Category>User experience;Design</Category>
+      <Url>http://uxmag.com/articles/user-experience-for-developers#.UKnnbz7TKBE.mailto</Url>
+    </item>
+    <item>
+      <Description>F# Xml Examples</Description>
+      <Category>F#;Interesting</Category>
+      <Url>http://www.trelford.com/blog/post/f-xml-comparison-(xelement-vs-xmldocument-vs-xmlreaderxmlwriter-vs-discriminated-unions).aspx</Url>
+    </item>
+    <item>
+      <item>
+        <Description>F# Snippets</Description>
+        <Category>F#;Interesting</Category>
+        <Url>http://fssnip.net/</Url>
+      </item>
+      <item>
+        <Description>Portable Kanban</Description>
+      <Category>Sticky Notes</Category>
+      <Url>http://dmitryivanov.net/personal-kanban-app/</Url>
+    </item>
+  </sites>
+</sections>

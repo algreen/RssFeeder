@@ -18,14 +18,14 @@ let richTextBox =
   let myRichTextBox = new RichTextBox()
   do myRichTextBox.Name <- "RichTextBox1"
   do myRichTextBox.Text <- Feed.displayContent.ToString()
-  do myRichTextBox.ClientSize <- new System.Drawing.Size(300,300)
+  do myRichTextBox.ClientSize <- new System.Drawing.Size(600,500)
   do myRichTextBox.DetectUrls <- true
   myRichTextBox 
 
-//let webBrowser = 
-//  let myWebBrowser = new WebBrowser()
-//  do myWebBrowser.Text <- Feed.displayContent.ToString()
-//  myWebBrowser
+// let webBrowser = 
+//   let myWebBrowser = new WebBrowser()
+//   do myWebBrowser.Text <- Feed.displayContent.ToString()
+//   myWebBrowser
   
 let button = 
   let feedButton = new Button()
@@ -39,7 +39,7 @@ let form =
   do myForm.Name <- "Windows Application Test"
   do myForm.BackColor <- Color.Gray
   do myForm.Text <- "Time is...."
-  do myForm.ClientSize <- new System.Drawing.Size(293,266)
+  do myForm.ClientSize <- new System.Drawing.Size(800,600)
   do myForm.Controls.Add(label) 
   do myForm.Controls.Add(richTextBox)
   do myForm.Controls.Add(button)

@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RssFeeder", "RssFeeder\RssFeeder.fsproj", "{1BD0DB23-352D-487A-AD48-DF88AC233E93}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "UnitTest", "UnitTest\UnitTest.fsproj", "{60D54024-C76B-4270-8E5E-D8FD77FC4A89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{1BD0DB23-352D-487A-AD48-DF88AC233E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BD0DB23-352D-487A-AD48-DF88AC233E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BD0DB23-352D-487A-AD48-DF88AC233E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D54024-C76B-4270-8E5E-D8FD77FC4A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D54024-C76B-4270-8E5E-D8FD77FC4A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D54024-C76B-4270-8E5E-D8FD77FC4A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D54024-C76B-4270-8E5E-D8FD77FC4A89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

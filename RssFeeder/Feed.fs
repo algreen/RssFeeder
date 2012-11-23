@@ -4,6 +4,23 @@ open System.Net
 open System
 open System.IO
 
+type RssItem = 
+    {
+        mutable Title           :   String option
+        mutable Link            :   String option
+        mutable Description     :   String option 
+    }
+    static member Empty =
+        { Title=None; Description=None; Link=None }
+let item = RssItem.Empty
+let MatchXmlElement (name,value) = 
+    match name with
+    | "title"       -> item.Title <- Some(value)
+    | "link"        -> item.Link  <- Some(value)
+    | "description" -> item.Description <- Some(value)
+    | _ -> () 
+
+
 let readFeed callback url =
     let req = WebRequest.Create(Uri(url))
     use resp = req.GetResponse()
